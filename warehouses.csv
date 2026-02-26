@@ -1,0 +1,13 @@
+Warehouse_ID,Region,Capacity_Units,Storage_Cost_Per_Unit_INR
+W01,North,93574,2.59
+W02,North,94154,3.57
+W03,North,89793,4.67
+W04,South,96820,5.03
+W05,South,80826,3.53
+W06,South,87129,3.06
+W07,East,53972,5.84
+W08,East,98576,6.44
+W09,East,61751,4.6
+W10,West,115438,3.19
+W11,West,105991,3.59
+W12,West,78735,2.57

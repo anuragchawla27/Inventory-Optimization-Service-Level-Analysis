@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Category,Unit_Cost_INR,Unit_Price_INR,Holding_Cost_Rate,Shelf_Life_Days
+P0001,Product_1,Personal Care,330.91,459.19,0.23,365
+P0002,Product_2,Personal Care,498.99,593.31,0.19,90
+P0003,Product_3,Home Care,93.56,127.86,0.22,120
+P0004,Product_4,Home Care,581.05,671.2,0.25,180
+P0005,Product_5,Electronics,674.33,811.28,0.19,180
+P0006,Product_6,Personal Care,187.55,229.95,0.22,365
+P0007,Product_7,Electronics,373.96,457.28,0.22,365
+P0008,Product_8,Food,154.62,189.11,0.21,120
+P0009,Product_9,Beverages,392.05,527.82,0.19,90
+P0010,Product_10,Home Care,435.68,565.55,0.18,365
+P0011,Product_11,Personal Care,505.66,603.06,0.18,90
+P0012,Product_12,Food,761.66,1059.79,0.24,90
+P0013,Product_13,Electronics,278.46,327.03,0.23,90
+P0014,Product_14,Food,380.11,448.73,0.21,90
+P0015,Product_15,Beverages,75.79,104.39,0.2,120
+P0016,Product_16,Electronics,546.89,671.54,0.22,90
+P0017,Product_17,Food,460.03,550.3,0.25,120
+P0018,Product_18,Home Care,631.35,874.34,0.24,90
+P0019,Product_19,Electronics,498.42,688.06,0.19,180
+P0020,Product_20,Electronics,196.99,228.76,0.2,365
+P0021,Product_21,Beverages,341.51,415.9,0.24,90
+P0022,Product_22,Home Care,317.56,387.5,0.22,180
+P0023,Product_23,Personal Care,155.69,210.27,0.19,365
+P0024,Product_24,Beverages,790.17,1061.24,0.19,365
+P0025,Product_25,Food,54.14,73.3,0.23,120
+P0026,Product_26,Beverages,596.76,801.33,0.19,365
+P0027,Product_27,Beverages,318.85,375.91,0.24,365
+P0028,Product_28,Home Care,517.47,637.9,0.18,120
+P0029,Product_29,Personal Care,283.24,348.75,0.23,90
+P0030,Product_30,Electronics,528.17,724.54,0.21,120
+P0031,Product_31,Food,139.7,185.56,0.23,180
+P0032,Product_32,Personal Care,470.96,632.37,0.21,180
+P0033,Product_33,Food,442.05,555.61,0.18,120
+P0034,Product_34,Beverages,130.92,151.59,0.22,180
+P0035,Product_35,Electronics,285.77,364.97,0.24,180
+P0036,Product_36,Home Care,236.97,296.83,0.23,180
+P0037,Product_37,Beverages,221.6,259.1,0.2,90
+P0038,Product_38,Beverages,170.92,236.28,0.24,120
+P0039,Product_39,Food,525.05,718.2,0.24,120
+P0040,Product_40,Home Care,189.93,260.8,0.22,120
+P0041,Product_41,Personal Care,655.58,900.78,0.2,120
+P0042,Product_42,Food,132.54,159.97,0.21,90
+P0043,Product_43,Electronics,663.51,905.81,0.18,180
+P0044,Product_44,Home Care,433.06,543.21,0.2,365
+P0045,Product_45,Home Care,139.9,172.69,0.25,90
+P0046,Product_46,Food,292.4,374.19,0.23,90
+P0047,Product_47,Personal Care,322.72,449.53,0.25,90
+P0048,Product_48,Electronics,238.84,304.35,0.2,90
+P0049,Product_49,Home Care,263.63,305.61,0.22,180
+P0050,Product_50,Food,427.01,496.56,0.2,90
+P0051,Product_51,Beverages,731.2,884.67,0.19,180
+P0052,Product_52,Personal Care,417.09,582.43,0.2,180
+P0053,Product_53,Personal Care,554.1,742.72,0.2,180
+P0054,Product_54,Personal Care,596.16,740.4,0.22,365
+P0055,Product_55,Personal Care,525.15,674.26,0.19,180
+P0056,Product_56,Electronics,676.48,832.2,0.19,90
+P0057,Product_57,Personal Care,80.58,104.57,0.23,365
+P0058,Product_58,Home Care,62.44,79.8,0.2,180
+P0059,Product_59,Electronics,533.88,637.23,0.23,180
+P0060,Product_60,Home Care,340.05,470.69,0.19,90
+P0061,Product_61,Beverages,305.8,360.34,0.24,180
+P0062,Product_62,Personal Care,708.0,859.86,0.23,365
+P0063,Product_63,Home Care,662.92,854.37,0.22,90
+P0064,Product_64,Electronics,231.39,271.48,0.24,120
+P0065,Product_65,Electronics,725.31,948.91,0.2,180
+P0066,Product_66,Personal Care,311.91,415.3,0.24,90
+P0067,Product_67,Electronics,715.31,962.08,0.22,90
+P0068,Product_68,Electronics,113.1,134.64,0.24,365
+P0069,Product_69,Electronics,504.82,581.71,0.19,120
+P0070,Product_70,Personal Care,547.63,630.46,0.19,365
+P0071,Product_71,Electronics,461.55,610.62,0.23,365
+P0072,Product_72,Food,218.2,289.78,0.2,90
+P0073,Product_73,Beverages,294.05,393.03,0.23,120
+P0074,Product_74,Food,686.92,902.89,0.22,90
+P0075,Product_75,Beverages,120.26,149.35,0.2,120
+P0076,Product_76,Food,232.99,324.62,0.21,90
+P0077,Product_77,Electronics,719.03,940.34,0.24,90
+P0078,Product_78,Electronics,426.98,552.61,0.21,365
+P0079,Product_79,Home Care,196.43,261.38,0.2,180
+P0080,Product_80,Electronics,68.24,89.48,0.19,365
+P0081,Product_81,Beverages,755.34,1048.78,0.24,180
+P0082,Product_82,Home Care,327.62,378.03,0.24,90
+P0083,Product_83,Personal Care,371.14,516.5,0.25,120
+P0084,Product_84,Beverages,689.76,844.0,0.21,120
+P0085,Product_85,Home Care,688.35,846.14,0.19,180
+P0086,Product_86,Beverages,467.6,647.18,0.23,90
+P0087,Product_87,Food,477.55,560.78,0.22,365
+P0088,Product_88,Beverages,792.54,939.18,0.22,180
+P0089,Product_89,Beverages,708.03,945.36,0.23,120
+P0090,Product_90,Electronics,576.86,715.24,0.2,90
+P0091,Product_91,Food,657.02,888.64,0.24,180
+P0092,Product_92,Beverages,734.93,939.12,0.22,180
+P0093,Product_93,Food,648.72,851.44,0.23,365
+P0094,Product_94,Food,646.84,887.79,0.2,90
+P0095,Product_95,Personal Care,331.69,389.23,0.22,365
+P0096,Product_96,Food,76.96,97.46,0.22,365
+P0097,Product_97,Electronics,264.91,343.77,0.18,120
+P0098,Product_98,Electronics,78.01,105.76,0.21,90
+P0099,Product_99,Beverages,145.3,186.06,0.23,90
+P0100,Product_100,Electronics,211.87,276.64,0.19,90
+P0101,Product_101,Personal Care,88.76,113.87,0.22,180
+P0102,Product_102,Electronics,528.07,703.14,0.25,120
+P0103,Product_103,Beverages,437.23,538.11,0.24,90
+P0104,Product_104,Personal Care,253.12,318.87,0.19,90
+P0105,Product_105,Personal Care,69.01,95.97,0.24,365
+P0106,Product_106,Electronics,571.98,716.26,0.19,120
+P0107,Product_107,Beverages,167.33,202.9,0.22,90
+P0108,Product_108,Food,585.95,770.55,0.2,90
+P0109,Product_109,Beverages,766.15,1022.41,0.22,365
+P0110,Product_110,Beverages,508.79,638.48,0.2,365
+P0111,Product_111,Personal Care,316.98,424.58,0.18,365
+P0112,Product_112,Personal Care,137.05,159.19,0.18,90
+P0113,Product_113,Home Care,691.6,917.0,0.21,365
+P0114,Product_114,Personal Care,123.38,157.05,0.21,120
+P0115,Product_115,Personal Care,179.9,226.4,0.21,365
+P0116,Product_116,Home Care,511.89,669.94,0.18,120
+P0117,Product_117,Home Care,330.96,432.39,0.22,90
+P0118,Product_118,Personal Care,692.37,910.24,0.19,120
+P0119,Product_119,Personal Care,102.93,134.9,0.18,365
+P0120,Product_120,Food,489.33,677.75,0.22,90
+P0121,Product_121,Food,341.13,447.16,0.21,90
+P0122,Product_122,Personal Care,459.21,636.18,0.21,365
+P0123,Product_123,Electronics,770.89,1061.01,0.19,120
+P0124,Product_124,Personal Care,102.02,119.89,0.18,180
+P0125,Product_125,Personal Care,120.83,159.59,0.18,90
+P0126,Product_126,Electronics,289.23,393.71,0.18,120
+P0127,Product_127,Food,660.85,806.55,0.19,180
+P0128,Product_128,Home Care,572.55,748.46,0.24,120
+P0129,Product_129,Food,601.3,812.28,0.2,180
+P0130,Product_130,Home Care,183.08,244.9,0.24,120
+P0131,Product_131,Electronics,792.88,993.6,0.21,180
+P0132,Product_132,Beverages,632.31,781.03,0.25,180
+P0133,Product_133,Personal Care,693.81,872.29,0.23,365
+P0134,Product_134,Beverages,615.91,724.17,0.24,365
+P0135,Product_135,Beverages,428.94,581.91,0.2,180
+P0136,Product_136,Home Care,721.64,900.1,0.18,180
+P0137,Product_137,Personal Care,729.04,855.03,0.2,365
+P0138,Product_138,Food,762.55,1058.15,0.22,90
+P0139,Product_139,Food,523.88,661.19,0.2,90
+P0140,Product_140,Home Care,296.5,390.82,0.23,365
+P0141,Product_141,Personal Care,643.68,867.3,0.19,180
+P0142,Product_142,Electronics,420.82,489.99,0.22,180
+P0143,Product_143,Beverages,381.15,522.91,0.2,180
+P0144,Product_144,Food,137.8,163.4,0.23,120
+P0145,Product_145,Personal Care,513.66,603.7,0.19,120
+P0146,Product_146,Electronics,575.73,672.56,0.24,365
+P0147,Product_147,Food,579.68,678.42,0.19,90
+P0148,Product_148,Food,789.98,982.39,0.21,120
+P0149,Product_149,Food,659.6,914.74,0.25,90
+P0150,Product_150,Personal Care,615.03,765.14,0.19,120
+P0151,Product_151,Electronics,632.86,816.14,0.21,90
+P0152,Product_152,Home Care,729.77,859.52,0.21,90
+P0153,Product_153,Electronics,58.52,74.15,0.18,90
+P0154,Product_154,Food,139.11,164.07,0.23,120
+P0155,Product_155,Electronics,609.53,789.86,0.25,180
+P0156,Product_156,Home Care,331.15,404.48,0.24,90
+P0157,Product_157,Food,217.7,302.77,0.18,90
+P0158,Product_158,Personal Care,777.41,902.41,0.24,120
+P0159,Product_159,Food,445.78,623.3,0.19,180
+P0160,Product_160,Electronics,465.39,647.98,0.22,120
+P0161,Product_161,Electronics,522.05,691.16,0.21,180
+P0162,Product_162,Home Care,520.67,674.83,0.24,120
+P0163,Product_163,Electronics,84.08,102.6,0.25,180
+P0164,Product_164,Electronics,717.7,907.11,0.22,180
+P0165,Product_165,Electronics,258.04,308.88,0.21,90
+P0166,Product_166,Electronics,315.01,408.23,0.19,365
+P0167,Product_167,Electronics,780.8,1090.42,0.23,90
+P0168,Product_168,Personal Care,452.07,554.87,0.24,90
+P0169,Product_169,Personal Care,563.55,670.99,0.24,90
+P0170,Product_170,Beverages,666.9,925.29,0.23,365
+P0171,Product_171,Personal Care,510.06,639.9,0.25,120
+P0172,Product_172,Beverages,699.55,812.39,0.18,90
+P0173,Product_173,Beverages,332.35,449.55,0.25,120
+P0174,Product_174,Home Care,162.81,211.42,0.21,180
+P0175,Product_175,Beverages,777.44,1057.72,0.24,180
+P0176,Product_176,Personal Care,401.52,503.39,0.2,90
+P0177,Product_177,Home Care,92.28,126.07,0.24,365
+P0178,Product_178,Beverages,799.79,1119.03,0.22,90
+P0179,Product_179,Electronics,626.74,868.78,0.24,180
+P0180,Product_180,Beverages,235.51,297.36,0.19,180
+P0181,Product_181,Food,765.54,996.38,0.2,365
+P0182,Product_182,Beverages,553.78,722.42,0.21,90
+P0183,Product_183,Food,135.17,178.14,0.22,90
+P0184,Product_184,Personal Care,629.24,805.45,0.24,180
+P0185,Product_185,Personal Care,463.93,598.58,0.24,120
+P0186,Product_186,Food,352.61,417.32,0.18,120
+P0187,Product_187,Beverages,616.35,804.39,0.23,365
+P0188,Product_188,Electronics,209.72,248.33,0.18,180
+P0189,Product_189,Home Care,312.94,406.03,0.21,365
+P0190,Product_190,Food,378.11,520.29,0.2,120
+P0191,Product_191,Home Care,435.49,586.13,0.21,90
+P0192,Product_192,Personal Care,516.57,705.42,0.25,90
+P0193,Product_193,Home Care,160.31,221.49,0.21,180
+P0194,Product_194,Food,243.68,308.21,0.25,90
+P0195,Product_195,Personal Care,419.46,516.86,0.22,90
+P0196,Product_196,Personal Care,230.11,268.99,0.19,365
+P0197,Product_197,Electronics,146.03,173.49,0.19,90
+P0198,Product_198,Food,530.66,634.38,0.2,365
+P0199,Product_199,Personal Care,722.59,916.6,0.23,180
+P0200,Product_200,Home Care,179.24,214.74,0.18,365
+P0201,Product_201,Home Care,176.7,215.51,0.19,90
+P0202,Product_202,Personal Care,116.53,137.52,0.21,180
+P0203,Product_203,Food,204.75,254.11,0.22,120
+P0204,Product_204,Electronics,567.8,658.55,0.24,365
+P0205,Product_205,Personal Care,520.93,609.71,0.24,365
+P0206,Product_206,Food,740.65,863.06,0.2,365
+P0207,Product_207,Food,654.65,875.31,0.19,365
+P0208,Product_208,Food,207.01,257.24,0.21,90
+P0209,Product_209,Home Care,513.69,638.12,0.21,180
+P0210,Product_210,Electronics,610.6,707.79,0.2,180
+P0211,Product_211,Home Care,585.01,803.69,0.22,180
+P0212,Product_212,Beverages,449.09,528.48,0.21,180
+P0213,Product_213,Home Care,449.46,544.13,0.2,180
+P0214,Product_214,Food,332.96,384.58,0.2,180
+P0215,Product_215,Electronics,208.59,256.95,0.19,90
+P0216,Product_216,Electronics,717.9,932.11,0.23,180
+P0217,Product_217,Home Care,641.88,818.15,0.19,120
+P0218,Product_218,Home Care,452.83,587.19,0.23,120
+P0219,Product_219,Electronics,373.74,441.73,0.2,90
+P0220,Product_220,Electronics,322.31,422.71,0.22,90
+P0221,Product_221,Electronics,317.07,442.83,0.22,365
+P0222,Product_222,Electronics,227.92,267.91,0.19,365
+P0223,Product_223,Electronics,234.47,279.06,0.19,90
+P0224,Product_224,Electronics,263.82,314.83,0.24,180
+P0225,Product_225,Home Care,110.18,141.15,0.21,90
+P0226,Product_226,Beverages,786.78,926.84,0.21,120
+P0227,Product_227,Electronics,777.1,1061.82,0.24,180
+P0228,Product_228,Home Care,243.43,290.34,0.23,365
+P0229,Product_229,Food,747.03,963.07,0.22,120
+P0230,Product_230,Personal Care,259.98,349.0,0.19,365
+P0231,Product_231,Home Care,292.76,367.81,0.22,120
+P0232,Product_232,Beverages,231.81,273.23,0.22,90
+P0233,Product_233,Personal Care,266.47,345.16,0.19,120
+P0234,Product_234,Beverages,410.86,527.19,0.18,365
+P0235,Product_235,Electronics,302.45,357.98,0.18,365
+P0236,Product_236,Home Care,792.47,975.2,0.24,180
+P0237,Product_237,Home Care,240.98,318.18,0.23,90
+P0238,Product_238,Food,496.73,629.8,0.21,365
+P0239,Product_239,Home Care,311.65,430.82,0.24,120
+P0240,Product_240,Personal Care,773.77,913.88,0.23,180
+P0241,Product_241,Electronics,753.76,900.97,0.18,180
+P0242,Product_242,Beverages,605.84,783.73,0.24,120
+P0243,Product_243,Home Care,154.83,208.84,0.19,90
+P0244,Product_244,Beverages,172.74,205.75,0.24,365
+P0245,Product_245,Electronics,548.9,703.01,0.21,120
+P0246,Product_246,Personal Care,707.9,883.54,0.24,365
+P0247,Product_247,Food,379.35,472.0,0.21,90
+P0248,Product_248,Beverages,276.03,369.03,0.22,365
+P0249,Product_249,Food,224.16,308.2,0.21,120
+P0250,Product_250,Food,457.66,630.03,0.22,365
+P0251,Product_251,Electronics,137.67,190.67,0.22,180
+P0252,Product_252,Electronics,301.18,356.84,0.24,180
+P0253,Product_253,Personal Care,515.05,661.0,0.24,365
+P0254,Product_254,Food,641.45,761.99,0.2,120
+P0255,Product_255,Home Care,236.37,315.78,0.18,90
+P0256,Product_256,Personal Care,477.42,640.03,0.24,365
+P0257,Product_257,Personal Care,306.56,415.49,0.19,120
+P0258,Product_258,Personal Care,684.84,809.39,0.21,90
+P0259,Product_259,Beverages,647.97,769.45,0.2,90
+P0260,Product_260,Personal Care,591.69,786.95,0.22,365
+P0261,Product_261,Food,570.46,733.43,0.2,120
+P0262,Product_262,Electronics,309.27,369.7,0.24,180
+P0263,Product_263,Personal Care,487.54,609.53,0.21,180
+P0264,Product_264,Electronics,760.46,903.69,0.22,365
+P0265,Product_265,Beverages,429.42,559.47,0.18,90
+P0266,Product_266,Electronics,704.09,973.78,0.22,180
+P0267,Product_267,Food,572.49,790.39,0.23,90
+P0268,Product_268,Beverages,164.4,212.75,0.22,180
+P0269,Product_269,Home Care,368.1,491.08,0.25,120
+P0270,Product_270,Beverages,744.18,939.68,0.19,90
+P0271,Product_271,Beverages,788.63,1072.32,0.19,120
+P0272,Product_272,Food,740.63,1012.79,0.22,90
+P0273,Product_273,Home Care,493.46,616.7,0.18,120
+P0274,Product_274,Food,301.4,407.1,0.18,180
+P0275,Product_275,Personal Care,300.12,375.02,0.22,90
+P0276,Product_276,Electronics,739.89,914.94,0.2,180
+P0277,Product_277,Electronics,603.13,761.78,0.2,90
+P0278,Product_278,Beverages,389.33,461.44,0.19,180
+P0279,Product_279,Personal Care,423.78,531.72,0.24,120
+P0280,Product_280,Food,321.8,416.77,0.22,365
+P0281,Product_281,Home Care,59.82,78.72,0.19,180
+P0282,Product_282,Home Care,770.8,915.07,0.21,365
+P0283,Product_283,Home Care,114.01,159.53,0.22,365
+P0284,Product_284,Home Care,496.54,579.35,0.23,90
+P0285,Product_285,Personal Care,207.43,285.11,0.19,180
+P0286,Product_286,Personal Care,193.02,223.73,0.21,90
+P0287,Product_287,Beverages,473.63,552.46,0.23,120
+P0288,Product_288,Electronics,389.97,499.59,0.21,180
+P0289,Product_289,Food,350.57,452.21,0.19,180
+P0290,Product_290,Food,186.45,254.58,0.25,120
+P0291,Product_291,Electronics,329.98,401.81,0.23,120
+P0292,Product_292,Beverages,356.55,412.3,0.19,180
+P0293,Product_293,Electronics,586.98,771.72,0.18,180
+P0294,Product_294,Personal Care,216.48,261.46,0.23,90
+P0295,Product_295,Electronics,64.78,76.19,0.24,90
+P0296,Product_296,Beverages,183.91,241.51,0.2,365
+P0297,Product_297,Beverages,124.58,150.84,0.23,180
+P0298,Product_298,Personal Care,691.77,939.12,0.21,90
+P0299,Product_299,Home Care,551.06,661.96,0.2,120
+P0300,Product_300,Electronics,722.25,832.94,0.19,120
