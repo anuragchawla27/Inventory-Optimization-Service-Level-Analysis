@@ -27,7 +27,6 @@ This project answers:
 
 - **Power BI** (Data Modeling, DAX Measures, Interactive Dashboards)
 - **SQL** (Business logic validation & overstock calculations)
-- **Excel** (Data preprocessing & cleaning)
 - **CSV Datasets** (6 raw data files)
 - **GitHub** (Version control & project documentation)
 
